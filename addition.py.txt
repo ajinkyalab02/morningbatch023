@@ -1,0 +1,12 @@
+Here’s a simple Python code example to get you started:
+Python# Program to add two numbers
+num1 = 10
+num2 = 20
+
+# Adding the numbers
+sum = num1 + num2
+
+# Displaying the result
+print("The sum of", num1, "and", num2, "is:", sum)
+
+This program adds two numbers and prints the result. You can modify the values of num1 and num2 to test it with different numbers!
